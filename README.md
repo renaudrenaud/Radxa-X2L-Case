@@ -21,7 +21,7 @@ Enjoy !
 
 ----------
 
-### v1.1 2023-27-01 by Cath
+### v1.1 2023-01-27 by Cath
 
 #### Top
 
@@ -37,7 +37,7 @@ Enjoy !
 - resized the hole for USB ports in the side, more easy to insert the USB connector
 
 
-### v1
+### v1.0 2023-01-13 by dasmmt
 
 Top and bottom are now two parts. Designed by dasmmt and offerd to the community here : https://forum.radxa.com/t/x2l-case-or-pcb-3d-model-release-date/19684/2
 
