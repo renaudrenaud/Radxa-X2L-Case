@@ -1,7 +1,7 @@
 # Radxa-X2L-Case
 Radxa X2L 3D printed Cases
 
-![image](images/radxa_top_v1.0.png)
+![image](images/radxa_red.png)
 
 The Radxa X2L is a cool little board, but it's a SBC and doesn't come with a case right now (december 2023).
 
@@ -22,6 +22,8 @@ Enjoy !
 ----------
 
 ### v1.1 2023-01-27 by Cath
+
+![image](images/radxa_top_v1.0.png)
 
 #### Top
 
