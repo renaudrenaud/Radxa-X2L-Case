@@ -21,7 +21,21 @@ Enjoy !
 
 ----------
 
-### v1.1 2023-01-27 by Cath
+### v1.3 2024-02-24
+- bottom 
+  - with bigger hole for power (was unable to connect to HP USB-C power unit)
+  - more space to remove the nvme (not sure it is better...)
+  - VESA 10 pads for screen mount
+- top: no change to the v1.2 version
+
+
+### v1.2 2024-15-02
+- bottom: more space for nvme
+- top: fan protection is Radxa logo
+- arc reactor: a box for neopixel ring on the top of the radxa box
+
+
+### v1.1 2024-01-27 by Cath
 
 ![image](images/radxa_top_v1.0.png)
 
